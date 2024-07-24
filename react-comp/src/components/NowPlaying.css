@@ -1,0 +1,19 @@
+.now-playing {
+    text-align: center;
+  }
+  
+  .now-playing img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .now-playing h2 {
+    margin: 20px 0 10px;
+  }
+  
+  .now-playing h3 {
+    margin: 0 0 20px;
+  }
+  

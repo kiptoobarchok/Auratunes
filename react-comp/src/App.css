@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  height: 100vh;
+  background-color: #181818;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
